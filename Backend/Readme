@@ -1,0 +1,12 @@
+backend/
+│
+├── config/
+│   └── db.js
+│
+├── models/
+│   └── Data.js
+│
+├── routes/
+│   └── dataRoutes.js
+│
+└── server.js
